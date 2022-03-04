@@ -1,6 +1,4 @@
 #!/usr/bin/env bash
-# Original Author: Jonas-Taha El Sesiy https://github.com/elsesiy
-# Modifications: Alexander Epstein
 
 unset base
 unset exchangeTo
